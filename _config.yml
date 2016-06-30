@@ -1,0 +1,14 @@
+layout_spectrum: 0.8917047737631947
+typography_spectrum: 0.42806737241335213
+color:
+  brandStrength: 0.07354266266338527
+  lightness: 0.9016236215829849
+  saturation: 0.07247901987284422
+  rhythmicContrast: 0.773782872594893
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: ezri
