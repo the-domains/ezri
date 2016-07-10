@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ezri Carlebach MPRCA FIIC FRSA Consultant, writer, lecturer]]></title>
         <description><![CDATA[Ezri Carlebach MPRCA FIIC FRSA Consultant, writer, lecturer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ezri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 11:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 11:52:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ezri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tears of joy]]></title>
+            <description><![CDATA[<article><h1>Tears of joy</h1><p>I just want to say…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c80d0552-6977-42b3-b551-43df3b60849f.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c80d0552-6977-42b3-b551-43df3b60849f.png</link>
+            <guid isPermaLink="false">47582358-281c-4b25-82ad-55b1a6c601aa</guid>
+            <pubDate>Sun, 10 Jul 2016 11:52:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tweets galore...]]></title>
             <description><![CDATA[<article><h1>Tweets galore...</h1><p>The latest Tweets from Ezri Carlebach (@ezriel). Communications consultant, writer and lecturer. London</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ebe3dc1-2ee4-45df-9cfb-de10c52dda25.png"></article>]]></description>
