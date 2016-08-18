@@ -1,16 +1,16 @@
-typography_spectrum: 0.42806737241335213
+typography_spectrum: 0.5987367075867951
 color:
-  brandStrength: 0.07354266266338527
-  lightness: 0.9016236215829849
-  saturation: 0.07247901987284422
-  rhythmicContrast: 0.773782872594893
+  brandStrength: 0.1481542717665434
+  lightness: 0.2656552658881992
+  saturation: 0.5346291018649936
+  rhythmicContrast: 0.31121598626486957
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.8917047737631947
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.5374248886946589
 author:
   name: Ezri Carlebach
   email: ezri@starfleet.com
